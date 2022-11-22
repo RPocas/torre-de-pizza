@@ -4,8 +4,9 @@ Torre de PI-zza, é um projetinho pessoal que estou fazendo nas horas vagas (nun
 
 ---
 
-## Servidor #1 - Jellyfin
+## Servidor #1 - Jellyfin <a href="https://github.com/RPocas/torre-de-pizza/wiki/Jellyfin">Wiki</a>
 <p align="center">
-<img alt="Jellyfin" src="https://raw.githubusercontent.com/RPocas/torre-de-pizza/main/Img/Jellyfin.svg"/>
+<img alt="Jellyfin" src="https://raw.githubusercontent.com/RPocas/torre-de-pizza/main/Img/Jellyfin.svg" width="40%" />
+</p>
 <br/>
 O Jellyfin é uma excelente alternativa para disponibilizar arquivos de mídia (no meu caso fotos e vídeos pessoais), criando uma espécie de "Netflix" particular, existem outras excelente alternativas como Plex ou Emby, mas particularmente escolhi o [Jellyfin](https://jellyfin.org/)
