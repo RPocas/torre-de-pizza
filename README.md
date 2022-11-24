@@ -1,4 +1,7 @@
+<p align="center">
 # Torre de PI-zza
+<img alt="Torre de PI-zza" src="https://raw.githubusercontent.com/RPocas/torre-de-pizza/main/Img/TorredePizza.jpg" width="40%" />
+</p>
 
 Torre de PI-zza, é um projetinho pessoal que estou fazendo nas horas vagas (nunca? rsrsrs) que consiste em montar um ultra mini rack para meu HomeLab utilizando algumas Rapberry PI's váriadas que tenho jogado pelas gavetas.
 
