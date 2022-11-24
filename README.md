@@ -12,4 +12,4 @@ Torre de PI-zza, é um projetinho pessoal que estou fazendo nas horas vagas (nun
 <img alt="Jellyfin" src="https://raw.githubusercontent.com/RPocas/torre-de-pizza/main/Img/Jellyfin.svg" width="40%" />
 </p>
 <br/>
-O Jellyfin é uma excelente alternativa para disponibilizar arquivos de mídia (no meu caso fotos e vídeos pessoais), criando uma espécie de "Netflix" particular, existem outras excelente alternativas como Plex ou Emby, mas particularmente escolhi o [Jellyfin](https://jellyfin.org/)
+O Jellyfin é uma excelente alternativa para disponibilizar arquivos de mídia (no meu caso fotos e vídeos pessoais), criando uma espécie de "Netflix" particular, existem outras excelente alternativas como Plex ou Emby, mas particularmente escolhi o <a alt="Jellyfin" href="https://jellyfin.org" target="_blank">Jellyfin</a>.
